@@ -1,0 +1,7 @@
+/bin/
+/.settings/
+/target/
+/.classpath
+/.DS_Store
+/.project
+/server.log
